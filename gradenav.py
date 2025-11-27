@@ -64,7 +64,6 @@ def main():
         sem_db[2]["tests"][1] = 500
         sem_db[2]["labs"][2] = 550
         sem_db[2]["labs"][3] = 550
-        sem_db[2]["final_proyect"] = 300
 
         sem_db[3]["tests"][0] = 620
         sem_db[3]["homework"][2] = 500

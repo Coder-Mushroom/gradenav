@@ -1,0 +1,185 @@
+{
+    "hist": {
+        "Comp-Sci": [
+            {
+                "subject": "IIC1001",
+                "credits": 5,
+                "fg": 100
+            },
+            {
+                "subject": "IIC1103",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "IIC2233",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "IIC1253",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "IIC2343",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "IIC2133",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "IIC2413",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "IIC2143",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "IIC2224",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "IIC2333",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "IIC2214",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "IIC2513",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "IIC2560",
+                "credits": 10,
+                "fg": 100
+            }
+        ],
+        "Math": [
+            {
+                "subject": "MAT1107",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "MAT1207",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "MAT1610",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "MAT1620",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "MAT1203",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "EYP1025",
+                "credits": 10,
+                "fg": 100
+            }
+        ],
+        "OFG": [
+            {
+                "subject": "DPT9035",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "EAG190A",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "MUC0872",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "FIL2005",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "TID0202",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "AST0101",
+                "credits": 10,
+                "fg": 100
+            }
+        ],
+        "Other": [
+            {
+                "subject": "AST0111",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "FIL2001",
+                "credits": 10,
+                "fg": 100
+            },
+            {
+                "subject": "TTF0113",
+                "credits": 10,
+                "fg": 100
+            }
+        ]
+    },
+    "sem": [
+        {
+            "subject": "ETI1001",
+            "credits": 10,
+            "cenia": [100, 100, 100, 100],
+            "tickets": [100, 100, 100],
+            "report": 100,
+            "final_proyect": 100,
+            "fg": 100
+        },
+        {
+            "subject": "IIC2283",
+            "credits": 10,
+            "tests": [100, 100, 100],
+            "homework": [100, 100, 100],
+            "fg": 100
+        },
+        {
+            "subject": "IIC2531",
+            "credits": 10,
+            "tests": [100, 100, 100],
+            "labs": [100, 100, 100, 100],
+            "fg": 100
+        },
+        {
+            "subject": "IIC2613",
+            "credits": 10,
+            "quizzes": [100, 100, 100, 100, 100, 100],
+            "tests": [100, 100],
+            "homework": [100, 100, 100, 100, 100],
+            "fg": 100
+        }
+    ]
+}
